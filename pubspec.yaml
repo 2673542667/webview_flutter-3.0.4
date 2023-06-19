@@ -20,8 +20,9 @@ dependencies:
   flutter:
     sdk: flutter
   webview_flutter_android:
-    git: https://github.com/xuechangde/webview_flutter_android_bggod.git
-    ref: master
+    git: 
+      url: https://github.com/xuechangde/webview_flutter_android_bggod.git
+      ref: master
   webview_flutter_platform_interface: ^1.8.0
   webview_flutter_wkwebview: ^2.7.0
 
